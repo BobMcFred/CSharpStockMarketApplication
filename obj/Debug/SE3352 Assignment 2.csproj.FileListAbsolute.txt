@@ -1,0 +1,28 @@
+c:\users\justin turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\bin\Debug\SE3352 Assignment 2.exe.config
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\bin\Debug\SE3352 Assignment 2.exe
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\bin\Debug\SE3352 Assignment 2.pdb
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352 Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.Form1.resources
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.Properties.Resources.resources
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352 Assignment 2.csproj.GenerateResource.Cache
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352 Assignment 2.exe
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352 Assignment 2.pdb
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.Bid.resources
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.Sell.resources
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.MarketByOrder.resources
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.MarketByPrice.resources
+C:\Users\Justin Turner\documents\visual studio 2012\Projects\SE3352 Assignment 2\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.StockStateSummary.resources
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\bin\Debug\SE3352 Assignment 2.exe.config
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352 Assignment 2.exe
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352 Assignment 2.pdb
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\bin\Debug\SE3352 Assignment 2.exe
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\bin\Debug\SE3352 Assignment 2.pdb
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352 Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.Bid.resources
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.Form1.resources
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.MarketByOrder.resources
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.MarketByPrice.resources
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.Properties.Resources.resources
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.Sell.resources
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352_Assignment_2.StockStateSummary.resources
+C:\Users\Justin Turner\Documents\SE3352 Assignment 2\obj\Debug\SE3352 Assignment 2.csproj.GenerateResource.Cache
